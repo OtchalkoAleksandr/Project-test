@@ -4,3 +4,7 @@ Logs
 Temp
 UserSettings
 My project Test.sln
+*.csproj
+.vsconfig
+.vs
+obj
